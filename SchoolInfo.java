@@ -2,7 +2,7 @@ package com.wipro.variables;
 
 public class SchoolInfo {
 	int stuId = 3702;
-    String name = "Shubha";
+    	String name = "Shubha";
 	static int stuMarks = 100;
 	static String schoolName = "Harrison Education";
 	static int schoolId = 9308;
